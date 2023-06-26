@@ -12,4 +12,4 @@ window.getInventoryBackground = function () {
         $('#inventory').addClass(`${inventoryText}`)
     }
 }
-//this assumes an existing container with id "inventory"
+//this assumes an existing container with id "inventory" and a Harlowe variable string array "inventory"
